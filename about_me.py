@@ -1,0 +1,5 @@
+print("Corey Dew")
+print("I am a first year student")
+print("I have a mohawk")
+print("I like to play games")
+print("My favorite color is orange")
